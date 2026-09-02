@@ -1,9 +1,14 @@
-#footer {
+.footer {
     background-color: #2e2f42;
 }
 
-#footer p {
-    color: #f4f4fd;
+.footer-description {
+    font-family: "Roboto", sans-serif;
+font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #f4f4fd;
 }
 
 .logo2 {
